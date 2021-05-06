@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Latihan 3 Monitory</string>
+    <string name="ket">
+        Dengan menekan tombol masuk berarti Anda menyetujui <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami.
+    </string>
+</resources>
